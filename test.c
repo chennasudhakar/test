@@ -4,5 +4,6 @@ int main()
 int a=10,b=20,c;
 printf("hai\n");
 c=a+b;
+printf("%d\n",c);
 return 0;
 }
