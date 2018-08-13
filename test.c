@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main()
 {
+int a=10,b=20,c;
 printf("hai\n");
+c=a+b;
 return 0;
 }
